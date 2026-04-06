@@ -1,0 +1,25 @@
+title: Sergey Neskoromny
+description: A mobile developer writing about AI-assisted development, software architecture, and platform engineering.
+url: "https://sergenes.github.io"
+author:
+  name: Sergey Neskoromny
+  email: ""
+
+theme: minima
+
+minima:
+  skin: auto
+
+header_pages:
+  - about.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /:year/:month/:day/:title/
+
+show_excerpts: true
+
+markdown: kramdown
+highlighter: rouge
