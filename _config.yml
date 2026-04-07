@@ -1,9 +1,7 @@
 title: Sergey's Blog
 description: A software engineer writing about native mobile and AI-assisted development, and software engineering in general.
 url: "https://sergenes.github.io"
-author:
-  name: Sergey Neskoromny
-  email: "sergeyn@answersolutions.net"
+author: Sergey Neskoromny
 
 theme: minima
 
