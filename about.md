@@ -12,5 +12,5 @@ Most of what I post here started as something I measured, broke, or fixed on a r
 
 You can also find me on:
 - [Medium](https://medium.com/@sergenes) — long-form articles
-- [LinkedIn](https://www.linkedin.com/in/sergenes/) — shorter posts and commentary
+- [LinkedIn](https://www.linkedin.com/in/sergey-neskoromny/) — shorter posts and commentary
 - [GitHub](https://github.com/sergenes)
