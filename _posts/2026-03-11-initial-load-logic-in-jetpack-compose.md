@@ -380,4 +380,4 @@ Thanks to everyone who pushed back in the comments across this series — Sevban
 
 *This article grew out of a 4-part LinkedIn series.*
 
-*Follow me on [Medium](https://medium.com/@sergey.neskoromny) and [LinkedIn](https://www.linkedin.com/in/sergey-neskoromny/) for updates.*
+*Follow me on [Medium](https://medium.com/@sergey-nes) and [LinkedIn](https://www.linkedin.com/in/sergey-neskoromny/) for updates.*

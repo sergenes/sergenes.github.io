@@ -225,4 +225,4 @@ This is obviously not everything, and each of those 20 rules can be expanded int
 
 ---
 
-*Follow me on [Medium](https://medium.com/@sergey.neskoromny) and [LinkedIn](https://www.linkedin.com/in/sergey-neskoromny/) for updates.*
+*Follow me on [Medium](https://medium.com/@sergey-nes) and [LinkedIn](https://www.linkedin.com/in/sergey-neskoromny/) for updates.*
